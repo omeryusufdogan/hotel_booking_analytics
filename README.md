@@ -6,4 +6,3 @@ ETL and Analytics pipeline for hotel booking data using Snowflake. Includes Bron
 
 - `python_scripts/` : Python script to fetch historical exchange rates (EUR, INR)
 - `sql/` : Full project SQL and dashboard queries
-- `data/` : Sample open-source hotel booking CSV
