@@ -1,6 +1,6 @@
 # Hotel Booking Analytics
 
-This project is an **ETL and analytics pipeline** for hotel booking data using **Snowflake**.  
+This project is an **ELT and analytics pipeline** for hotel booking data using **Snowflake**.  
 The goal is to process raw hotel bookings data, convert currencies, clean and transform it, and finally generate dashboards and KPIs for business insights.
 
 **Special thanks to [Data with Jay](https://www.youtube.com/@Data_with_Jay) for the inspiration behind this project.**
