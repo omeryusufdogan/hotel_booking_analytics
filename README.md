@@ -30,6 +30,11 @@ The **business goal** is to:
    - Bookings by status and room type
 
 ---
+## Sample Dashboard
+
+Here is a Snowflake dashboard created from the Gold layer:
+
+![Hotel Booking Dashboard](images/dashboard.png)
 
 ## Folder Structure
 
