@@ -1,6 +1,9 @@
 # Hotel Booking Analytics
 
-ETL and Analytics pipeline for hotel booking data using Snowflake. Includes Bronze, Silver, Gold layers and dashboard/KPI queries.
+ETL and Analytics pipeline for hotel booking data using Snowflake.  
+This project includes Bronze, Silver, Gold layers and dashboard/KPI queries.
+
+Special thanks to **Data with Jay** for the inspiration behind this project.
 
 ## Folder structure
 
